@@ -9,4 +9,4 @@ Milestone
 3. 동영상 변환 기능 추가
 
 기술 스택
-- 자바? 파이썬? Node?
+- python Django
